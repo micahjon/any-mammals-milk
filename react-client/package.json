@@ -15,7 +15,7 @@
     "babel-plugin-emotion": "^10.0.6",
     "chartist": "^0.11.0",
     "debounce": "^1.2.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "firebase": "^5.8.2",
     "lockr": "^0.8.5",
     "microstates": "^0.14.0",
